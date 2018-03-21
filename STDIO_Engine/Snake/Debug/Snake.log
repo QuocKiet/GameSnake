@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\documents\mycode\stdio_engine\snake\source.cpp(195): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents\mycode\stdio_engine\snake\source.cpp(189): warning C4715: 'Handling': not all control paths return a value
+  Snake.vcxproj -> E:\Documents\Mycode\STDIO_Engine\Debug\Snake.exe
+  Snake.vcxproj -> E:\Documents\Mycode\STDIO_Engine\Debug\Snake.pdb (Partial PDB)
